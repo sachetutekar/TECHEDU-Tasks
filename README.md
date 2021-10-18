@@ -2,6 +2,8 @@
 Data Science
 #
 <b> Hello everyone! Hope you all are doing good. 
+  
+Thanks to TechEdu for providing this wonderful opportunity.
 I got to have hands on experience on:
 <li>Python
 <li>Machine Learning
