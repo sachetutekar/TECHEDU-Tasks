@@ -10,6 +10,7 @@ I got to have hands on experience on:
 <li>AI Algo
 <li>Plotly graphs
 <li>SunBurst Charts
+<li>Presentation skills
 
 <b>Please drop a message on my social handles if you have any queries or any suggestions. 
 </b>.
